@@ -21,6 +21,8 @@ Highlights
 📧 Notification System: Set up email notifications to inform users upon successful conversion of videos to audio.
 
 🛠️ Hands-On Learning: Gain practical experience with Kubernetes and Helm in a cloud environment.
+![NoteGPT_MindMap_1730811826748](https://github.com/user-attachments/assets/62d311a6-9d7a-4304-ad4c-cbf728b12b98)
+
 
 Key Insights
 
